@@ -8,7 +8,7 @@ In case we have very huge dataset, I applied online loading (by batch) instead o
 #### The Applications of MobileNetv2
 <p></p>
 <center>   
-<img src="img/3.png" align="center" width="500" height="400"/>
+<img src="img/3.png" align="center" width="700" height="400"/>
 </center>
 
 Figure 1: image is taken from [source](https://ai.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html)   
@@ -16,7 +16,7 @@ Figure 1: image is taken from [source](https://ai.googleblog.com/2018/04/mobilen
 #### The Block Architecture
 <p></p>
 <center>   
-<img src="img/block.png" width="500" height="300"/>   
+<img src="img/block.png" width="400" height="300"/>   
 </center>
 
 Figure 2: image is taken from [source](https://arxiv.org/pdf/1801.04381.pdf)   
@@ -24,11 +24,12 @@ Figure 2: image is taken from [source](https://arxiv.org/pdf/1801.04381.pdf)
 #### The MobileNetv2 Architecture
 <p></p>
 <center>   
-<img src="img/6.png" align="center" width="500" height="500"/>
-</center>
+<img src="img/6.png" align="center" width="400" height="500"/>
+</center>   
+
 <p></p>
 <center>
-<img src="img/5.png" align="center" width="500" height="200"/>
+<img src="img/5.png" align="center" width="400" height="200"/>
 </center>
 
 Figure 3: images are taken from [source](https://arxiv.org/pdf/1801.04381.pdf)   
